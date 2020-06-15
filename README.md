@@ -48,7 +48,7 @@ export FLASK_APP=votr.py
 export FLASK_DEBUG=1
 ```
 
-Finally run it with:
+Finally run it with:bforked
 
 ```bash
 flask run
